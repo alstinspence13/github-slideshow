@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ----
-This will allow a slide format and add a title page
+I believe this way of executing the slide show is more efficient.
